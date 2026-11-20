@@ -1,1 +1,1 @@
-# Este es mi proyecto
+# El proyecto de un semáforo en Wokwi consiste en crear un semáforo usando Arduino y tres luces LED: roja, amarilla y verde.

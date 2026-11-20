@@ -34,6 +34,3 @@ void loop() {
   digitalWrite(verde, LOW);
   delay(2000);
 }
-git add. 
-git commit -m "añadi semaforo"
-git push -u origin main
